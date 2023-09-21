@@ -1,0 +1,43 @@
+WARNING: Do this for all encodings
+
+LENGTH 9, STRING "FUDCE Dev"
+
+dark byte
+Dark Byte
+dark Byte
+Dark byte
+
+LENGTH 8, STRING "FUDCEDev"
+
+darkbyte
+DarkByte
+darkByte
+Darkbyte
+
+LENGTH 12, STRING "FUDCE App CE"
+
+cheat engine
+Cheat Engine
+cheat Engine
+Cheat engine
+
+LENGTH 11, STRING "FUDCEAppEXC"
+
+cheatengine
+CheatEngine
+cheatEngine
+Cheatengine
+
+LENGTH 12, STRING "FUDCE_App_CE"
+
+cheat_engine
+Cheat_Engine
+cheat_Engine
+Cheat_engine
+
+LENGTH 12, STRING "FUDCE-App-CE"
+
+cheat-engine
+Cheat-Engine
+cheat-Engine
+Cheat-engine
